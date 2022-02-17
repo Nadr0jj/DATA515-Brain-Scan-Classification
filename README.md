@@ -1,15 +1,18 @@
 [![Build Status](https://travis-ci.com/aaliyahfiala42/DATA515-Brain-Scan-Classification.svg?branch=main)](https://travis-ci.com/aaliyahfiala42/DATA515-Brain-Scan-Classification) 
 
+# NOTE: The project is currently not deployed
+
 ## Brain Scan Tumor Classification
 ### DATA 515 Final Project
-Project Website Location: http://doihaveatumor.com/
+
+~Project Website Location: http://doihaveatumor.com/~
 
 The Brain Scan Classification is a machine learning project that classifies 2D brain scan images as tumorous or not. 
 Our website allows users to upload their own (.jpg, jpeg, or .png) photos into the model, and get a prediction result. 
 <img src="/brain_scan/static/img/home.PNG">
 
 ## Website Interaction
-1. Navigate to the 'Do I Have A Tumor?' website: http://doihaveatumor.com/
+1. ~Navigate to the 'Do I Have A Tumor?' website: http://doihaveatumor.com/~
 2. Click the 'Choose File' button, and select a 2D .jpg / .jpeg / .png brain scan from your file explorer
 3. Click the 'Submit' button, and wait for the results to display at the top of the page
 
